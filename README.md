@@ -10,7 +10,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
@@ -41,11 +40,3 @@ You can also find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linked
 ## Check out My Stack and Tools 🏋🏿🏋🏿
 
 P/S Learning and picking up fast is very important to me
-
-> ![](https://img.shields.io/badge/Learning%20Fast-8/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Java%20Spring%20Boot-6/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Node%20JS-6/10-informational?style=for-the-badge&color=success)
-
-> ![](https://img.shields.io/badge/kubernetes-5/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Docker-7/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Python%20Flask-6/10-informational?style=for-the-badge&color=success)
-
-> ![](https://img.shields.io/badge/React%20Native/JS-6/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Angular%20JS-6/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/Git%20&%20Github%20Actions-6/10-informational?style=for-the-badge&color=success)
-
-> ![](https://img.shields.io/badge/Node%20JS-6/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/GraphQL-6/10-informational?style=for-the-badge&color=success) > ![](https://img.shields.io/badge/REST-7/10-informational?style=for-the-badge&color=success)
